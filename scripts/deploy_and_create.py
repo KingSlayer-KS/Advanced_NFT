@@ -6,7 +6,7 @@ from scripts.helpful_scripts import (
 )
 from brownie import Adavanced_collectible, config, network
 
-
+sample_token_uri = "https://ipfs.io/ipfs/Qmd9MCGtdVz2miNumBHDbvj8bigSgTwnr4SbyH6DNnpWdt?filename=0-PUG.json"
 
 
 def create_and_dep():
