@@ -1,5 +1,5 @@
 # Advanced_NFT
-Developed a NFT project including metadata and uploding pngs to IPFS from scratch on opense rinkeby testnet
+Developed a NFT project including metadata and uploding pngs to IPFS from scratch on opensea rinkeby testnet
 
 ## Opensea Testnet Links
 
